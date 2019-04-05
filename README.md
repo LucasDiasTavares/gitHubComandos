@@ -73,15 +73,16 @@ q
 ##### **BackEnd**: Python e Django 2.2.
 
 # Sistema:
-**Vendedor **
-#####Formulario de Venda:
-*Formulario orçamento:
-  **ID da venda.
-  *Cliente que será vendido.
-  *Nome do pedido.
-  *Valor total.
-  *Desconto na venda total.
-  *Forma de pagamento.(Cartão, Dinheiro, Boleto, ETC.)
-  *Pagamento: Parcelado(2 ou mais vezes) ou Á vista
-  *Tabela dos itens:
-    **ID(contador), tamanho, quantidade, desconto(por item), modelo, tipo de estampa, tipo de gola, estampa frente, estampa costa, estampa manga, autorizado (data|somente o ADM pode autorizar), data de entrega: campo automaticamente mostrar o prazo de 15 dias.
+## Vendedor
+##### Formulario de Venda:
+###### Formulario orçamento:
+- ID da venda.
+- Cliente que será vendido.
+- Nome do pedido.
+- Valor total.
+- Desconto na venda total.
+- Forma de pagamento.(Cartão, Dinheiro, Boleto, ETC.)
+- Pagamento: Parcelado(2 ou mais vezes) ou Á vista
+- Tabela dos itens:
+- ID(contador), tamanho, quantidade, desconto(por item), modelo, tipo de estampa, tipo de gola, estampa frente, estampa costa, estampa manga, autorizado (data|somente o ADM pode autorizar), data de entrega: campo automaticamente mostrar o prazo de 15 dias.
+			
