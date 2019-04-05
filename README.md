@@ -9,6 +9,14 @@ Escrita: para deixar alguma escrita em **NEGRITO** eu posso usar
 asterisco astericso minha escrita asterisco astericso.  para deixar alguma escrita em *ITALICO* eu posso usar
 astericso minha escrita asterisco.
 
+```python
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```
+
 ## Adiciona todas as alterações para o git
 ´´´
 git add .
