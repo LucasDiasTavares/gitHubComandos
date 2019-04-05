@@ -39,6 +39,25 @@ git branch
 git checkout -b NovoNomeDaBranch
 ```
 
+## Ver o log completo
+```python
+git log
+```
+###### Para ver apenas uma parte de log
+```python
+git log --oneline -3
+```
+
+###### Para filtrar por data o log
+```python
+git log --since='2019-05-04'
+```
+
+###### Para sair do log
+```python
+q
+```
+
 # Testando para ver se aprendi mesmo
 
 ## Pagina inicial estatica
