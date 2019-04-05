@@ -59,34 +59,21 @@ git log --since='2019-05-04'
 q
 ```
 
-# Coisas a serem feitas
+## Coisas a serem feitas
 
 - [x] Este está completo
 - [ ] Este ainda vai ser completado
 
-# Ordenacao
+## Ordenacao
 - item principal
-- item princiapl 2
+- item principal 2
   - sub item do principal 2
 
-# Testando para ver se aprendi mesmo
+## Adicionando link
+http://github.com - automatic!
+[GitHub](http://github.com)
 
-## Pagina inicial estatica
-##### Apenas com HTML, CSS e um pouco de javascript caso necessario.
-## Blog simples:
-##### **FrontEnd**: HTML, CSS, Bootstrap e um pouco de javascript.
-##### **BackEnd**: Python e Django 2.2.
+## Adicionando imagem
+- procurando como fazer
 
-# Sistema:
-## Vendedor
-##### Formulario de Venda:
-- ID da venda.
-- Cliente que será vendido.
-- Nome do pedido.
-- Valor total.
-- Desconto na venda total.
-- Forma de pagamento.(Cartão, Dinheiro, Boleto, ETC.)
-- Pagamento: Parcelado(2 ou mais vezes) ou Á vista
-- Tabela dos itens:
-  - ID(contador), tamanho, quantidade, desconto(por item), modelo, tipo de estampa, tipo de gola, estampa frente, estampa costa, estampa manga, autorizado (data|somente o ADM pode autorizar), data de entrega: campo automaticamente mostrar o prazo de 15 dias.
 			
