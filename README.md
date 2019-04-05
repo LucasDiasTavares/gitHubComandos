@@ -38,3 +38,11 @@ git branch
 ```python
 git checkout -b NovoNomeDaBranch
 ```
+
+# Testando para ver se aprendi mesmo
+
+# Pagina inicial estatica
+###### apenas com HTML, CSS e um pouco de javascript caso necessario.
+# Blog simples:
+###### **FrontEnd**: HTML, CSS, Bootstrap e um pouco de javascript.
+##### **BackEnd**: Python e Django 2.2.
