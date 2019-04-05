@@ -40,21 +40,21 @@ git checkout -b NovoNomeDaBranch
 ```
 # Comandos do log
 
-## Ver o log completo
+##### Ver o log completo
 ```python
 git log
 ```
-###### Para ver apenas uma parte de log
+##### Para ver apenas uma parte de log
 ```python
 git log --oneline -3
 ```
 
-###### Para filtrar por data o log
+##### Para filtrar por data o log
 ```python
 git log --since='2019-05-04'
 ```
 
-###### Para sair do log
+##### Para sair do log
 ```python
 q
 ```
