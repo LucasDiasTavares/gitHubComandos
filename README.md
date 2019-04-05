@@ -38,6 +38,7 @@ git branch
 ```python
 git checkout -b NovoNomeDaBranch
 ```
+# Comandos do log
 
 ## Ver o log completo
 ```python
