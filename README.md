@@ -9,40 +9,32 @@ Escrita: para deixar alguma escrita em **NEGRITO** eu posso usar
 asterisco astericso minha escrita asterisco astericso.  para deixar alguma escrita em *ITALICO* eu posso usar
 astericso minha escrita asterisco.
 
+## Adiciona todas as alterações para o git
 ```python
-function fancyAlert(arg) {
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
-}
+git add .
 ```
 
-## Adiciona todas as alterações para o git
-´´´
-git add .
-´´´
-
 ## Faz o commit (salva) as alterações
-´´´
+```python
 git commit -m 'qual foi a minha mudanca'
-´´´
+```
 
 ## Envia o(s) commit(s) para o github
-´´´
+```python
 git push
-´´´
+```
 
 ## Baixa as alterações já feitas no github
-´´´
+```python
 git pull
-´´´
+```
 
 ## Saber em qual branch (ramo) eu estou
-´´´
+```python
 git branch
-´´´
+```
 
 ## Cria uma nova branch (ramo)
-´´´
+```python
 git checkout -b NovoNomeDaBranch
-´´´
+```
