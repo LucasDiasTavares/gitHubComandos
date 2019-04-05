@@ -1,0 +1,7 @@
+# adiciona todas as alterações para o git
+git add .
+# faz o commit (salva) as alterações
+git commit -m 'qual foi a minha mudanca'
+
+# envia o(s) commit(s) para o github
+git push
