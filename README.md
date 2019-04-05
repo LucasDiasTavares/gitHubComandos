@@ -25,4 +25,6 @@ astericso minha escrita asterisco.
 **git branch**
 
 ## Cria uma nova branch (ramo)
-```git checkout -b NovoNomeDaBranch´´´
+``` 
+git checkout -b NovoNomeDaBranch 
+´´´
