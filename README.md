@@ -62,7 +62,13 @@ q
 # Coisas a serem feitas
 
 - [x] Este está completo
+  - [] sub item incompleto
 - [ ] Este ainda vai ser completado
+
+# Ordenacao
+- item principal
+- item princiapl 2
+  - sub item do principal 2
 
 # Testando para ver se aprendi mesmo
 
