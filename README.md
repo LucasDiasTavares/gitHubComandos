@@ -59,6 +59,11 @@ git log --since='2019-05-04'
 q
 ```
 
+# Coisas a serem feitas
+
+- [x] Este está completo
+- [ ] Este ainda vai ser completado
+
 # Testando para ver se aprendi mesmo
 
 ## Pagina inicial estatica
