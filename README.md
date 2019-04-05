@@ -73,7 +73,7 @@ q
 ##### **BackEnd**: Python e Django 2.2.
 
 # Sistema:
-** ###Vendedor **
+**Vendedor **
 #####Formulario de Venda:
 *Formulario orçamento:
   **ID da venda.
