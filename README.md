@@ -12,17 +12,17 @@ astericso minha escrita asterisco.
 ## Adiciona todas as alterações para o git
 **git add .**
 
-# Faz o commit (salva) as alterações
+## Faz o commit (salva) as alterações
 **git commit -m 'qual foi a minha mudanca'**
 
-# Envia o(s) commit(s) para o github
+## Envia o(s) commit(s) para o github
 **git push**
 
-# Baixa as alterações já feitas no github
+## Baixa as alterações já feitas no github
 **git pull**
 
-# Saber em qual branch (ramo) eu estou
+## Saber em qual branch (ramo) eu estou
 **git branch**
 
-# Cria uma nova branch (ramo)
-**git checkout -b NovoNomeDaBranch**
+## Cria uma nova branch (ramo)
+```git checkout -b NovoNomeDaBranch´´´
